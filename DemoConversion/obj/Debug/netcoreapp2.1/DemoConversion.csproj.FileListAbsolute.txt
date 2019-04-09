@@ -1,0 +1,10 @@
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Conversion\DemoConversion\bin\Debug\netcoreapp2.1\DemoConversion.deps.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Conversion\DemoConversion\bin\Debug\netcoreapp2.1\DemoConversion.runtimeconfig.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Conversion\DemoConversion\bin\Debug\netcoreapp2.1\DemoConversion.runtimeconfig.dev.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Conversion\DemoConversion\bin\Debug\netcoreapp2.1\DemoConversion.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Conversion\DemoConversion\bin\Debug\netcoreapp2.1\DemoConversion.pdb
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Conversion\DemoConversion\obj\Debug\netcoreapp2.1\DemoConversion.csproj.CoreCompileInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Conversion\DemoConversion\obj\Debug\netcoreapp2.1\DemoConversion.AssemblyInfoInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Conversion\DemoConversion\obj\Debug\netcoreapp2.1\DemoConversion.AssemblyInfo.cs
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Conversion\DemoConversion\obj\Debug\netcoreapp2.1\DemoConversion.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Demo_Conversion\DemoConversion\obj\Debug\netcoreapp2.1\DemoConversion.pdb
